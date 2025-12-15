@@ -93,11 +93,6 @@ I'm **Abdelmalek**, a PhD researcher passionate about unraveling the complex phy
 
 ## 📊 GitHub Analytics
 
-[comment]: <> (<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdelmalekbouaziz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4da6ff&icon_color=4da6ff&text_color=a0c4e8&count_private=true&include_all_commits=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelmalekbouaziz&theme=tokyonight&hide_border=true&background=0d1117&ring=4da6ff&fire=ff6b6b&currStreakLabel=4da6ff" height="180"/>
-</div>)
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdelmalekbouaziz&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=4da6ff&line=4da6ff&point=ff6b6b&area=true&area_color=4da6ff" width="95%"/>
 </div>
