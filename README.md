@@ -28,11 +28,11 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
-I'm **Malik**, a PhD researcher passionate about unraveling the complex physics of wind farm turbulence through high-fidelity computational simulations.
+I'm **Abdelmalek**, a PhD researcher passionate about unraveling the complex physics of wind farm turbulence through high-fidelity computational simulations.
 
 🌬️ **Research Focus:** Large Eddy Simulation with Actuator Line Method (LES-ALM) for wind turbine wake dynamics and aerodynamic performance analysis
 
-🔬 **Current Work:** Investigating how turbulent length scales and wind shear affect wake interactions in tandem wind turbine configurations using the NREL 5MW reference turbine
+[comment]: <> (🔬 **Current Work:** Investigating how turbulent length scales and wind shear affect wake interactions in tandem wind turbine configurations using the NREL 5MW reference turbine)
 
 🎯 **Mission:** Advancing our understanding of atmospheric boundary layer flows to optimize wind farm efficiency and reduce fatigue loads
 
@@ -62,13 +62,13 @@ I'm **Malik**, a PhD researcher passionate about unraveling the complex physics 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Fortran](https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+[comment]: <> (![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white))
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 ### CFD & Simulation
 ![OpenFOAM](https://img.shields.io/badge/OpenFOAM-00A98F?style=for-the-badge&logoColor=white)
 ![ANSYS](https://img.shields.io/badge/ANSYS_Fluent-FFB71B?style=for-the-badge&logoColor=black)
-![Gmsh](https://img.shields.io/badge/Gmsh-FF6600?style=for-the-badge&logoColor=white)
+
 
 ### Visualization & Post-Processing
 ![ParaView](https://img.shields.io/badge/ParaView-4A90D9?style=for-the-badge&logoColor=white)
@@ -83,7 +83,7 @@ I'm **Malik**, a PhD researcher passionate about unraveling the complex physics 
 
 ### Data & Analysis
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+[comment]: <> (![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white))
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![HDF5](https://img.shields.io/badge/HDF5-0066CC?style=for-the-badge&logoColor=white)
 
