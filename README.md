@@ -62,7 +62,6 @@ I'm **Abdelmalek**, a PhD researcher passionate about unraveling the complex phy
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Fortran](https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-[comment]: <> (![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white))
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 ### CFD & Simulation
@@ -83,7 +82,6 @@ I'm **Abdelmalek**, a PhD researcher passionate about unraveling the complex phy
 
 ### Data & Analysis
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-[comment]: <> (![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white))
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![HDF5](https://img.shields.io/badge/HDF5-0066CC?style=for-the-badge&logoColor=white)
 
